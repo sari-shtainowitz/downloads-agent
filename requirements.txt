@@ -1,0 +1,11 @@
+langgraph
+langchain
+langchain-google-genai
+langsmith
+python-dotenv
+pypdf
+python-docx
+opencv-python
+numpy
+send2trash
+truststore

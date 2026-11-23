@@ -1,0 +1,17 @@
+# סיסמאות - לעולם לא לגיט!
+.env
+
+# סביבת פייתון והגדרות PyCharm
+.venv/
+venv*/
+.idea/
+__pycache__/
+*.pyc
+
+# תיקיות ניסוי (קבצים אישיים)
+test_downloads/
+test_output/
+
+# קבצי מדיה גדולים במבחן
+eval_files/*.mp3
+eval_files/*.mp4
